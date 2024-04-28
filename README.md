@@ -8,6 +8,8 @@ We all visit many sites and we all have seen those drop down accordions. So I de
 
 [GitHub page](https://github.com/Digita1Panda/accordion)
 
+[Accordion](https://digita1panda.github.io/accordion/)
+
 ## Table of Contents
 
 - [Accordion](#accordion)
